@@ -65,9 +65,8 @@ button {
   cursor: pointer;
 }
 
-button:active {
-  border-color: #396cd8;
-  background-color: #e8e8e8;
+code {
+  background-color: #0f0f0f;
 }
 
 input,
